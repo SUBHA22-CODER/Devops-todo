@@ -10,7 +10,6 @@ This application uses **localStorage** for task storage and is **containerized w
 - Add, Complete, and Delete tasks
 - Tasks persist using browser localStorage
 - Smooth glowing hover animations
-- Falling leaf background for a calm UI experience 🍃
 - Responsive and minimal UI
 - Fully Dockerized → Ready for deployment
 
